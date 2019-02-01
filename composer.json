@@ -1,5 +1,5 @@
 {
-    "name": "regionhalland/region-halland-current-page-and-child-pages",
+    "name": "regionhalland/region-halland-page-children",
     "description": "Front-end-plugin som returnerar aktuell sida + alla barn-sidor",
     "type": "wordpress-plugin",
     "license": "MIT",
